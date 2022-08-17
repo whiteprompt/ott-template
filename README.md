@@ -4,7 +4,7 @@
 
 `wp-template` contains example template from White Prompt for starting your slides.
 
-`slidev-sample` contains sample froim slidev wich is obtained runing `npm init slidev`.
+`slidev-sample` contains sample from slidev wich is obtained runing `npm init slidev`.
 
 `presentations` contains old presentations, feel free to add yours later with a PR, you can leave there useful links or code.
 
