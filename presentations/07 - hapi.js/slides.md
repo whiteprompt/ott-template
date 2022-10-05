@@ -58,12 +58,12 @@ div.container {
 
 ---
 
-# Subscribe to our YouTube Channel
+# Subscribe and give us a like!
 
 <br><br><br>
 
 <a href="https://www.youtube.com/channel/UCvhl0GYmups5hZ4WgfuRAYQ" target="_blank">
-  <img width="500" style="margin-left:auto;margin-right:auto;vertical-align:middle;" src="/youtube-wp.png">
+  <img width="500" style="margin-left:auto;margin-right:auto;vertical-align:middle;" src="/yt.png">
 </a>
 
 ---
